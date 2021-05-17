@@ -4,9 +4,8 @@
   "main": "index.js",
   "description": "对luffy进行封装",
   "dependencies": {
-    "lodash": "^4.17.15",
-    "request": "^2.88.2",
-    "request-promise": "^4.2.5"
+    "got": "^11.8.2",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {},
   "directories": {
