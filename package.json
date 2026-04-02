@@ -5,7 +5,7 @@
   "description": "对luffy进行封装",
   "dependencies": {
     "got": "^12.5.3",
-    "lodash": "^4.17.21"
+    "lodash": "^4.18.1"
   },
   "devDependencies": {},
   "directories": {
